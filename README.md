@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EBMAHHH
+- 👋 Hi, I’m @Maxime Cros
 - 🌱 I’m currently learning Javascript, especially React & Node.js with the school O'Clock
 - 📫 You can reach me via Slack (Maxime Cros)
 
